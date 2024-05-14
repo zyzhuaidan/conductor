@@ -24,6 +24,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.glassfish/javax.el
     compile group: 'org.glassfish', name: 'javax.el', version: "${revJavaElApi}"
     compile 'commons-lang:commons-lang:2.6'
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    implementation 'com.google.guava:guava:31.1-jre'
 }
 
 import com.github.vmg.protogen.ProtoGenTask;

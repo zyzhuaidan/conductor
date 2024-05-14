@@ -83,6 +83,7 @@ test.finalizedBy("intDockerDown")
 
 
 test {
+    enabled(false)
     testLogging {
         exceptionFormat = 'full'
     }

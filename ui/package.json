@@ -32,6 +32,7 @@
     "express": "^4.13.3",
     "fbjs": "^0.7.2",
     "graceful-fs": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-env": "^0.4.0",
     "history": "^1.17.0",
     "lodash": "^4.0.0",
